@@ -1,4 +1,4 @@
-# Project: 03_AlternatingLeds (Week 5)
+# Project: 03_AlternatingLeds
 
 ## 1. Description
 This project, corresponding to Week 5, demonstrates the control of two independent LEDs. The goal is to create an alternating sequence where only one LED is active at a time, teaching students about mutual exclusion in digital logic.

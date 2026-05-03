@@ -107,7 +107,7 @@ void loop() {
     Lcd.print("Comfort station");
     
     Lcd.setCursor(0, 1);
-    Lcd.print("By: Iwan");
+    Lcd.print("By: Name");
   }
 
   // Screen 1: Gas Telemetry

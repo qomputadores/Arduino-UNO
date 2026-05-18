@@ -59,4 +59,5 @@ Keypad Column 3 | Pin 4 | Digital Output Column Driver
 To operate the security validation gate, open the Serial Monitor (Ctrl + Shift + M) at 9600 baud. The terminal will output system status changes. When the vehicle reaches the Checkpoint zone (10-20 cm), a secure input line will open. Type the 6-digit master key ("123456") to trigger the verification parameters.
 
 This material is for classroom use only. Commercial distribution is strictly prohibited.
+
 Author: Iwan
